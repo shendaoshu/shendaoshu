@@ -7,8 +7,6 @@
 # Github URL:    https://github.com/shendaoshu
 # Version:       1.0
 
-# Initialize the machine. This needs to be executed on every machine.
-
 # Add host domain name.
 cat >> /etc/hosts << EOF
 192.168.188.245 k8s-master01 m1
