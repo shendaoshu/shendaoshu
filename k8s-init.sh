@@ -1,4 +1,4 @@
-k8s-init.sh
+#k8s-init.sh
 
 #!/usr/bin/env bash
 #
