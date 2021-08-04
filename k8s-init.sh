@@ -1,7 +1,7 @@
 #k8s-init.sh
 
 #!/usr/bin/env bash
-#
+#-*- coding:utf-8 -*-
 # Modify Author: kun zheng <shendaoshu@gmail.com>
 # Modify Date:   2021-08-04 16:00
 # Github URL:    https://github.com/shendaoshu
